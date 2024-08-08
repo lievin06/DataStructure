@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Lievin Reyes</h1>
+<h1 align="center">Hi , I'm Lievin Reyes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![453600260_1051268953020455_6300012945127261078_n](https://github.com/user-attachments/assets/6c2c3437-6b06-43a3-b1bc-9fd35e5b40d1)
 
+## About Me
 
-- 🌱 I’m currently pursuing a **Bachelor of Science in Computer Science**
+### Personal Information
+- **Name:** Lievin Reyes
+- **Age:** 20
+- **Location:** Biñan, Laguna
 
-- 📫 How to reach me **mackerz112293@gmail.com**
+### Education
+
+I’m currently pursuing a **Bachelor of Science in Computer Science**
 
 ### Connect with me:
 
