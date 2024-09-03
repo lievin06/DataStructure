@@ -1,18 +1,20 @@
-<h1 align="center">Hi , I'm Lievin Reyes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"height="20%" width="20%></h1>
-
-![453600260_1051268953020455_6300012945127261078_n](https://github.com/user-attachments/assets/6c2c3437-6b06-43a3-b1bc-9fd35e5b40d1)
+<img src="https://github.com/user-attachments/assets/6c2c3437-6b06-43a3-b1bc-9fd35e5b40d1" height="20%" width="20%"/>
 
 ## About Me
 
 ### Personal Information
 - **Name:** Lievin Reyes
-- **Age:** 20
+- **Date of Birth:** July 12, 2004
 - **Location:** Biñan, Laguna
 
 ### Education
 
 - **Degree:** Bachelor of Science in Computer Science
 - **Institution:** La Consolacion College Biñan
+
+### Achievements:
+
+- **Iskolar ng Biñan**
 
 ### Connect with me:
 
@@ -28,26 +30,21 @@
 ### Languages and Tools:
 
 <p>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
 
+
+ <div align="center">
+  <img title="spotify-github-profile" alt="spotify" src="https://github.com/kittinan/spotify-github-profile/blob/master/img/novatorem.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/><br><br>
+  
