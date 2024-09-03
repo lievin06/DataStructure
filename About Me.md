@@ -11,7 +11,8 @@
 
 ### Education
 
-I’m currently pursuing a **Bachelor of Science in Computer Science**
+- **Degree:** Bachelor of Science in Computer Science
+- **Institution:** La Consolacion College Biñan
 
 ### Connect with me:
 
